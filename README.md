@@ -1,6 +1,6 @@
 # Magento 2 Checkout Success Page Extension
 
-[Magento 2 Checkout Success Page](https://www.ulmod.com/checkout-success-page-for-magento-2.html)  is a Magento 2 extension that allows you to improve the design of your thank you page and increase your sales significantly.
+[Magento 2 Checkout Success Page](https://www.ulmod.com/checkout-success-page-for-magento-2.html)  is a Magento 2 extension that allows you to improve the design of your thank you page and increase sales significantly.
 
 With Magento 2 Checkout Success Page, you can display additional information at your thank you page encouraging buyers to purchases more.
 
